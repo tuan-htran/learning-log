@@ -15,3 +15,4 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 
 ## Progress
 - ✅ Day 1: Python basics (variables, data types, operators, f-strings) — built a temperature converter and calculator
+- ✅ Day 2: Control flow (if/elif/else, for loops, while loops) — FizzBuzz, sum calculator
