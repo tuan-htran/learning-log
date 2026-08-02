@@ -11,17 +11,21 @@
 # - Use a counter variable to track number of attempts
 # - input() always returns a string - convert it to a number with int()
 
+ 
+# Improvements
+import random
+secret = random.randint(1, 10)
+attempts = 0
 
-# First Attempt: 
-secret = 7
-attempts = 1
+print("I'm thinking of a number between 1 and 10.")
 guess = int(input("Guess a number: "))
+attempts += 1
 
 while guess != secret:
     if guess < secret:
-        attempts += 1
         guess = int(input(f"{guess} is too low, guess again: "))
-    elif guess > secret:
-        attempts += 1
+    else:
         guess = int(input(f"{guess} is too high, guess again: "))
-print(f"correct. Attempts: {attempts}")
+    attempts += 1
+
+print(f"Correct! You got it in {attempts} attempts.")
