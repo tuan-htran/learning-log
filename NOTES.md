@@ -4,13 +4,13 @@
 - Built temperature converter and simple calculator
 - Concepts felt: variables and operators were easy, f-strings took a moment to click
 
-## Day 2 - August 1, 2026
+## Day 2 - August 2, 2026
 - Learned control flow: if/elif/else, for loops, while loops
 - Practiced FizzBuzz and sum-with-while-loop
 - Solved practice problems: even numbers loop, positive/negative/zero check
 - Concepts felt: comfortable overall, learned to simplify elif to else when it's the only remaining casels
 
-## Day 3 - August 1, 2026
+## Day 3 - August 3, 2026
 - Learned functions (def, parameters, return, default parameters)
 - Learned scope: local vs global variables
 - Learned try/except error handling
@@ -24,3 +24,14 @@
 - Practiced try/except for bad input (ValueError), learned to only catch
   exceptions that can actually occur in that code (removed unused
   ZeroDivisionError handler since there was no division happening)
+
+  ## Day 4 - August 4, 2026
+- Learned data structures: lists, tuples, dicts, sets
+- Built get_evens() - looped through a list, appended matching items to a new list
+- Learned list comprehensions as a more concise alternative to loop + append,
+  e.g. [n for n in numbers if n % 2 == 0]
+- Practiced printing dictionary key-value pairs with .items()
+- Built remove_duplicates() using set(items), then converted back to a list
+  with list(set(items))
+- Learned list(dict.fromkeys(items)) as an alternative that preserves order,
+  when order matters and set() alone would lose it
