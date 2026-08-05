@@ -25,7 +25,7 @@
   exceptions that can actually occur in that code (removed unused
   ZeroDivisionError handler since there was no division happening)
 
-  ## Day 4 - August 4, 2026
+## Day 4 - August 4, 2026
 - Learned data structures: lists, tuples, dicts, sets
 - Built get_evens() - looped through a list, appended matching items to a new list
 - Learned list comprehensions as a more concise alternative to loop + append,
