@@ -20,3 +20,5 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 - ✅ Day 4: Data structures (lists, tuples, dicts, sets) — get_evens(), remove_duplicates(), list comprehensions
 - ✅ Day 5: String manipulation, file I/O — word counter, sentence reverser, about_me.txt
 - ✅ Week 1 complete
+
+- ✅ Week 2, Day 1: Classes, objects, self, BankAccount practice

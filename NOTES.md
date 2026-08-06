@@ -48,3 +48,13 @@
 ## Week 1 complete
 - Python fundamentals: variables, control flow, functions, data structures,
   string manipulation, file I/O - all done
+
+
+## Week 2, Day 1 - August 6, 2026
+- Learned classes, objects, attributes, methods, and __init__
+- Learned self: it's how a method knows which specific object's data to use
+  (Python passes the object in automatically when you call obj.method())
+- Built BankAccount class with deposit(), withdraw(), check_balance()
+- Debugged operator typos: =- instead of -= for withdraw
+- Saw a more professional version with docstrings, type hints, and input
+  validation (raising ValueError for invalid amounts)
