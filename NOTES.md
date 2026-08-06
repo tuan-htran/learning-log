@@ -35,3 +35,16 @@
   with list(set(items))
 - Learned list(dict.fromkeys(items)) as an alternative that preserves order,
   when order matters and set() alone would lose it
+
+## Day 5 - August 4, 2026
+- Learned string manipulation: strip(), lower(), upper(), replace(), split(), join(), slicing
+- Learned file I/O: writing and reading files with `with open(...) as f`
+- Built word counter using split() and len()
+- Built sentence reverser using split()[::-1] and join()
+- Wrote about_me.txt with 3 facts, read it back
+- Learned writelines() and using a list of strings instead of repeated
+  .write() calls, plus wrapping file operations in try/except for robustness
+
+## Week 1 complete
+- Python fundamentals: variables, control flow, functions, data structures,
+  string manipulation, file I/O - all done

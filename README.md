@@ -18,3 +18,5 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 - ✅ Day 2: Control flow (if/elif/else, for loops, while loops) — FizzBuzz, sum calculator
 - ✅ Day 3: Functions, scope, error handling — average(), is_prime(), try/except practice
 - ✅ Day 4: Data structures (lists, tuples, dicts, sets) — get_evens(), remove_duplicates(), list comprehensions
+- ✅ Day 5: String manipulation, file I/O — word counter, sentence reverser, about_me.txt
+- ✅ Week 1 complete
