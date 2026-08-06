@@ -36,7 +36,7 @@
 - Learned list(dict.fromkeys(items)) as an alternative that preserves order,
   when order matters and set() alone would lose it
 
-## Day 5 - August 4, 2026
+## Day 5 - August 5, 2026
 - Learned string manipulation: strip(), lower(), upper(), replace(), split(), join(), slicing
 - Learned file I/O: writing and reading files with `with open(...) as f`
 - Built word counter using split() and len()
