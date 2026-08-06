@@ -14,11 +14,13 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 - `NOTES.md` — Daily log of what I learned and what was hard
 
 ## Progress
-- ✅ Day 1: Python basics (variables, data types, operators, f-strings) — built a temperature converter and calculator
-- ✅ Day 2: Control flow (if/elif/else, for loops, while loops) — FizzBuzz, sum calculator
-- ✅ Day 3: Functions, scope, error handling — average(), is_prime(), try/except practice
-- ✅ Day 4: Data structures (lists, tuples, dicts, sets) — get_evens(), remove_duplicates(), list comprehensions
-- ✅ Day 5: String manipulation, file I/O — word counter, sentence reverser, about_me.txt
-- ✅ Week 1 complete
 
-- ✅ Week 2, Day 1: Classes, objects, self, BankAccount practice
+### Week 1 — Python Fundamentals ✅
+- Day 1: Python basics (variables, data types, operators, f-strings) — temperature converter, calculator
+- Day 2: Control flow (if/elif/else, for loops, while loops) — FizzBuzz, sum calculator
+- Day 3: Functions, scope, error handling — average(), is_prime(), try/except practice
+- Day 4: Data structures (lists, tuples, dicts, sets) — get_evens(), remove_duplicates(), list comprehensions
+- Day 5: String manipulation, file I/O — word counter, sentence reverser, about_me.txt
+
+### Week 2 — OOP + Git Workflow
+- Day 1: Classes, objects, self, BankAccount practice
