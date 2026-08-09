@@ -24,4 +24,4 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 
 ### Week 2 — OOP + Git Workflow
 - ✅ Day 1: Classes, objects, self, BankAccount practice
-- ✅ Week 2, Day 2: Inheritance, polymorphism, encapsulation — Shape/Rectangle/Circle, abc module
+- ✅ Day 2: Inheritance, polymorphism, encapsulation — Shape/Rectangle/Circle, abc module
