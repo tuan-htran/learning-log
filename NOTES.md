@@ -58,3 +58,16 @@
 - Debugged operator typos: =- instead of -= for withdraw
 - Saw a more professional version with docstrings, type hints, and input
   validation (raising ValueError for invalid amounts)
+
+## Week 2, Day 2 - August 8, 2026
+- Learned inheritance: subclasses inherit attributes/methods, can override them
+- Learned polymorphism: different classes respond to the same method call in
+  their own way (e.g. shape.area() behaves differently per subclass)
+- Learned encapsulation: underscore convention (_balance) signals "internal,
+  use methods instead of touching directly"
+- Built Shape/Rectangle/Circle classes practicing inheritance + polymorphism
+- Learned Python's abc module: ABC + @abstractmethod enforces that subclasses
+  must implement required methods, catching mistakes immediately instead of
+  silently later
+- Learned type hints (e.g. `-> float`, `width: float`) - documentation for
+  humans/tooling, not enforced at runtime
