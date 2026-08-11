@@ -71,3 +71,12 @@
   silently later
 - Learned type hints (e.g. `-> float`, `width: float`) - documentation for
   humans/tooling, not enforced at runtime
+
+## Week 2, Day 3 - August 10, 2026
+- Learned Git branching workflow: checkout -b, committing on a branch,
+  switching back to main, merging, pushing, deleting the branch
+- Saw firsthand that a commit made on a branch doesn't exist on main until
+  merged - the file disappeared when switching to main, reappeared after merge
+- Learned pull requests are the team-setting equivalent: a request to merge
+  one branch into another, letting others review changes before they land
+- Documented the whole workflow as comments in day3-git-practice.py
