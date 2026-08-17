@@ -80,3 +80,14 @@
 - Learned pull requests are the team-setting equivalent: a request to merge
   one branch into another, letting others review changes before they land
 - Documented the whole workflow as comments in day3-git-practice.py
+
+## Week 2, Day 4 - August 16, 2026
+- Learned modules: created helpers.py with functions, imported into
+  day4-modules.py using both `import helpers` and `from helpers import ...`
+- Learned packages: a folder of modules with an __init__.py file
+- Learned virtual environments: isolated Python setup per project, so
+  packages for one project don't conflict with another
+- Set up venv (had to install python3.12-venv via apt first), activated it,
+  installed requests as a test, deactivated
+- Created .gitignore with venv/ so the virtual environment folder never
+  gets committed to Git
