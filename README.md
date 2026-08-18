@@ -15,15 +15,18 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 
 ## Progress
 
-### Week 1 — Python Fundamentals ✅
-- Day 1: Python basics (variables, data types, operators, f-strings) — temperature converter, calculator
-- Day 2: Control flow (if/elif/else, for loops, while loops) — FizzBuzz, sum calculator
-- Day 3: Functions, scope, error handling — average(), is_prime(), try/except practice
-- Day 4: Data structures (lists, tuples, dicts, sets) — get_evens(), remove_duplicates(), list comprehensions
-- Day 5: String manipulation, file I/O — word counter, sentence reverser, about_me.txt
+### Week 1 — Python Fundamentals
+- ✅ Day 1: Python basics (variables, data types, operators, f-strings) — temperature converter, calculator
+- ✅ Day 2: Control flow (if/elif/else, for loops, while loops) — FizzBuzz, sum calculator
+- ✅ Day 3: Functions, scope, error handling — average(), is_prime(), try/except practice
+- ✅ Day 4: Data structures (lists, tuples, dicts, sets) — get_evens(), remove_duplicates(), list comprehensions
+- ✅ Day 5: String manipulation, file I/O — word counter, sentence reverser, about_me.txt
+- ✅ Week 1 complete
 
 ### Week 2 — OOP + Git Workflow
 - ✅ Day 1: Classes, objects, self, BankAccount practice
 - ✅ Day 2: Inheritance, polymorphism, encapsulation — Shape/Rectangle/Circle, abc module
 - ✅ Day 3: Git branching workflow — branches, commits, merging
 - ✅ Day 4: Modules, virtual environments, .gitignore
+- ✅ Day 5: Intro to testing with pytest — is_prime(), average(), remove_duplicates() tests
+- ✅ Week 2 complete

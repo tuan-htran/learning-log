@@ -1,16 +1,16 @@
-## Day 1 - August 1, 2026
+## Week 1, Day 1 - August 1, 2026
 - Learned variables, data types, basic operators
 - Learned what f-strings are and how they work
 - Built temperature converter and simple calculator
 - Concepts felt: variables and operators were easy, f-strings took a moment to click
 
-## Day 2 - August 2, 2026
+## Week 1, Day 2 - August 2, 2026
 - Learned control flow: if/elif/else, for loops, while loops
 - Practiced FizzBuzz and sum-with-while-loop
 - Solved practice problems: even numbers loop, positive/negative/zero check
 - Concepts felt: comfortable overall, learned to simplify elif to else when it's the only remaining casels
 
-## Day 3 - August 3, 2026
+## Week 1, Day 3 - August 3, 2026
 - Learned functions (def, parameters, return, default parameters)
 - Learned scope: local vs global variables
 - Learned try/except error handling
@@ -25,7 +25,7 @@
   exceptions that can actually occur in that code (removed unused
   ZeroDivisionError handler since there was no division happening)
 
-## Day 4 - August 4, 2026
+## Week 1, Day 4 - August 4, 2026
 - Learned data structures: lists, tuples, dicts, sets
 - Built get_evens() - looped through a list, appended matching items to a new list
 - Learned list comprehensions as a more concise alternative to loop + append,
@@ -36,7 +36,7 @@
 - Learned list(dict.fromkeys(items)) as an alternative that preserves order,
   when order matters and set() alone would lose it
 
-## Day 5 - August 5, 2026
+## Week 1, Day 5 - August 5, 2026
 - Learned string manipulation: strip(), lower(), upper(), replace(), split(), join(), slicing
 - Learned file I/O: writing and reading files with `with open(...) as f`
 - Built word counter using split() and len()
@@ -91,3 +91,21 @@
   installed requests as a test, deactivated
 - Created .gitignore with venv/ so the virtual environment folder never
   gets committed to Git
+
+## Week 2, Day 5 - August 17, 2026
+- Learned pytest: test_*.py files, test_* functions, assert statements
+- Learned assert checks a condition is True - False means the test fails
+  and pytest shows exactly what was expected vs what was returned
+- Wrote tests for is_prime(), average(), and remove_duplicates()
+- Lesson: assert average([1,2,3]) alone only checks "truthy" - always
+  compare against an exact expected value with ==
+- Lesson: set() doesn't preserve order, so comparing directly with ==
+  against a list can create a "flaky test" - use set(result) == {...}
+  for order-independent comparisons, or better, use dict.fromkeys(items)
+  instead of set(items) to preserve order at the source
+- Wrote multiple small, focused tests (removes duplicates / preserves
+  order / empty list / no duplicates) instead of one big test
+
+## Week 2 complete
+- OOP (classes, inheritance, polymorphism, encapsulation), Git branching
+  workflow, modules/venv/.gitignore, and pytest - all done
