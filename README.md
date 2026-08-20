@@ -30,3 +30,5 @@ Restarting/updating my Computer Engineering degree (BS, 2015) with hands-on codi
 - ✅ Day 4: Modules, virtual environments, .gitignore
 - ✅ Day 5: Intro to testing with pytest — is_prime(), average(), remove_duplicates() tests
 - ✅ Week 2 complete
+
+- ✅ Review session: rebuilt is_prime() and BankAccount from memory, full pytest coverage
