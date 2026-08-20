@@ -109,3 +109,11 @@
 ## Week 2 complete
 - OOP (classes, inheritance, polymorphism, encapsulation), Git branching
   workflow, modules/venv/.gitignore, and pytest - all done
+
+## Review session - August 19, 2026
+- Rebuilt is_prime() and BankAccount from memory before starting Week 3
+- Both included the professional touches (type hints, validation, square
+  root optimization) without prompting - good sign the material stuck
+- Wrote full pytest suites for both, including pytest.raises() for
+  testing that invalid input correctly raises ValueError
+- Learned Python filenames need underscores, not hyphens, to be importable
